@@ -1,3 +1,6 @@
+"""This script extracts fields from the pdf and scanned pdf files.
+It's compiled by Phala Mathobela"""
+
 import re
 import PyPDF2
 import pdfplumber
